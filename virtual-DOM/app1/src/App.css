@@ -1,10 +1,8 @@
-h1{
-  color : red;
+.details{
+  margin-top : 1%;
+  margin-left : 1%;
+  color:ghostwhite;
 }
-#root{
-  margin-left : 50%;
-}
-#details{
-  margin-top : 10px;
-  margin-left : 10px;
+.name{
+  color:rgb(63, 60, 60);
 }
