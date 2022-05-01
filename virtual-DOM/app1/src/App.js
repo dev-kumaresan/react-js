@@ -1,7 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-
-function App() {
+export function App() {
   return (
     // <div className="App">
     //   <header className="App-header">
@@ -22,8 +21,8 @@ function App() {
      <h1> My name is kumaresan </h1>
   );
 }
-
 export default App;
+
 
 
 
