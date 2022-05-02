@@ -6,5 +6,5 @@
 ### Routing -
 * <a href="https://github.com/dev-kumaresan/react-js/tree/main/virtual-DOM/Routing/src">Learning about Routing</a><br>
         - <b>page1.js -> Page1()<b><br>
-        - <b>page2.js -> Page2()
-        - <b>links.js -> Links()
+        - <b>page2.js -> Page2()<b><br>
+        - <b>links.js -> Links()<b>
