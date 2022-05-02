@@ -1,16 +1,15 @@
 
-import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import './App.css'
+import './App.css';
 import Page1 from './page1';
 import Page2 from './page2';
+import Links from './links';
 function Home(){
     return(
-        <div>
-        <div className='Home'>Welcome to My Home Page</div>
+        <div className="content">
         <BrowserRouter>
             <Routes>
-             <Route path="/" element={<Home />}>
+             <Route path="/" element={<Links />}>
                 <Route path="/page1" element={<Page1 />}/>
                 <Route path="/page2" element={<Page2 />}/>
              </Route>
@@ -19,11 +18,8 @@ function Home(){
         </div>
         
     );
-}
-const page1 = ReactDOM.createRoot(document.getElementById('Page1'));
-page1.render(<Page1 />);
-const page2 = ReactDOM.createRoot(document.getElementById('Page2'));
-page2.render(<Page2 />);
+}   
+
 export default Home;
 // Page1();
 // Page2();

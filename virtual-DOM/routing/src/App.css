@@ -1,15 +1,3 @@
-.home{
-    text-align: center;
-    color : #000;
-}
 #root{
-    background-color: ghostwhite;
-}
-#Page1{
-  text-align: center;
-  color : #000;
-}
-#Page2{
-  text-align: center;
-  color : #000;
+  background-color: gray;
 }
