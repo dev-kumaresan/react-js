@@ -4,7 +4,7 @@
         - <b>Details.js -> Details()</b>
 
 ### Routing -
-* <a href="https://github.com/dev-kumaresan/react-js/tree/main/virtual-DOM/routing/src"><b>Learning about Routing</b></a><br>
+* <a href="https://github.com/dev-kumaresan/react-js/tree/main/virtual-DOM/routing/src"><b>Learning about Routes</b></a><br>
         - <b>page1.js -> Page1()</b><br>
         - <b>page2.js -> Page2()</b><br>
         - <b>links.js -> Links()</b>
