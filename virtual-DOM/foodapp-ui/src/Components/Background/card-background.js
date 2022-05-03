@@ -4,7 +4,7 @@ function CardBackground()
 {
 return(
         <div className="panel">
-              <FoodAdCard></FoodAdCard>
+         <FoodAdCard></FoodAdCard>
         </div>
       );
 }
