@@ -1,9 +1,11 @@
 import "./food-ad-card.css"
+import AdContent from "../AdContent/ad-content";
 function FoodAdCard()
 {
   return(
     <div className="ad-card">
-      <div className="bend"></div>
+      <AdContent />
+    <div className="bend"></div>
     </div>
   );
 }
