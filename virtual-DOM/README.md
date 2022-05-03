@@ -10,7 +10,7 @@
         - <b>links.js -> Links()</b>
 
 ### Food App UI using React -
-* <a href="https://github.com/dev-kumaresan/react-js/tree/main/virtual-DOM/foodapp-ui/src"><b>Food App UI</b></a> - Practice<br>
-        - <b>page1.js -> Page1()</b><br>
-        - <b>page2.js -> Page2()</b><br>
-        - <b>links.js -> Links()</b>
+* <a href="https://github.com/dev-kumaresan/react-js/tree/main/virtual-DOM/foodapp-ui/src"><b>Food App UI</b></a> - <b>Practice.</b><br>
+        - <b>ad-content.js -> AdContent()</b><br>
+        - <b>card-background.js -> CardBackground()</b><br>
+        - <b>food-ad-card.js -> FoodAdCard()</b>
