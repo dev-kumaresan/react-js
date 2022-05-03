@@ -3,7 +3,6 @@ import AdContent from "../AdContent/ad-content";
 function FoodAdCard()
 {
   return(
-    
     <div className="ad-card">
     <div className="dots">
           <span class="dot1"></span>
