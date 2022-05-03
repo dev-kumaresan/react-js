@@ -1,10 +1,5 @@
 import CardBackground from "./Components/Background/card-background"; 
 function App() {
-  return (
-    
-      <CardBackground />
-    
-  );
+  return ( <CardBackground/>);
 }
-
 export default App;
