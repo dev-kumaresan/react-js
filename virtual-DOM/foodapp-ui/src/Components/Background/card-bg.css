@@ -1,4 +1,18 @@
-.container{
+*{
+    box-sizing : border-box;
+}
+body{
+    
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin : 0;
+    color : white;
+    background-color: rgba(247, 240, 240, 0.973);
+}
+#root{
     display : flex;
     width : 90vw;
 }
@@ -6,25 +20,15 @@
     background-size: auto 100%;
     background-position: center;
     background-repeat: no-repeat;
-    height : 80vh;
-    border-radius : 50px;
+    height : 60vh;
     cursor : pointer;
-    flex:0.5;
+    flex:5;
     margin : 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
     background-image : url('Images/Background.jpg');
 }
-.panel h4{
-    font-size: 24px;
-    position : absolute;
-    bottom : 20px;
-    left :20px;
-    margin : 0;
-    opacity: 0;
-}
 @media(max-width:480px){
-    .container{
+    #root{
         width : 100vw;
     }
     .panel:nth-of-type(4),.panel:nth-of-type(5){
