@@ -1,24 +1,18 @@
-import "./food-ad-card.css"
+import "./food-ad-card.css";
+import Dots from "../Dots/dots";
 import AdContent from "../AdContent/ad-content";
+import Bend from "../Bend/bend";
+import CircleButton from "../CircleButton/circle-button";
+import RightArrow from "../RightArrow/right-arrow";
 function FoodAdCard()
 {
   return(
     <div className="ad-card">
-    <div className="dots">
-          <span class="dot1"></span>
-           <div class="space"></div>
-          <span class="dot"></span>
-            <div class="space"></div>
-          <span class="dot"></span>
-      </div>
+      <Dots />
       <AdContent />
-      <div className="bend">
-      </div>
-      <div className="circle">
-     </div>
-     <div className="arr">
-       <i className="arrow right"></i>
-       </div>
+      <Bend />
+      <CircleButton />
+      <RightArrow />
    </div>
    );
 }
