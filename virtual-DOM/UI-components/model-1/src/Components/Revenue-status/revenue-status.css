@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
-.revenue-card{
+.card-holder{
     margin-left :12.7%;
     margin-top : -11.5%;
 }
-.card-holder{
+.revenue-card{
 
     background-color: #fff;
     opacity : 0.93;

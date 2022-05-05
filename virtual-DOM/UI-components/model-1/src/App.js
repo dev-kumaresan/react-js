@@ -17,7 +17,7 @@ function App() {
    <div>
     <ProfileCard userData={userData}/>
    </div>
-   <div className="revenue-card">
+   <div className="card-holder">
       <RevenueStatus Revenue={Revenue}/>
    </div>
    </>

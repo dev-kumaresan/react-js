@@ -2,7 +2,7 @@ import "./revenue-status.css";
 function RevenueStatus(props)
 {
     return(
-        <div className="card-holder">
+        <div className="revenue-card">
             <div className="logo">
                 <div className="circle"></div>
                 <div className="dollar">$</div>
