@@ -5,12 +5,15 @@ function ProfileCard(props)
         <>
         <div className="profile-holder">
             <div className="profile-card">
+                <div className="header">
             <h1>{props.userData.name}</h1>
             <p>{props.userData.position}</p>
-            <div className="count-holder">
+            </div>
+            <div className="works-holder">
                 <div className="total-projects-count">
                     <p>{props.userData.projects}</p>
                 </div>
+            
                 <div className="total-revenue-count">
                     <p>{props.userData.revenue}</p>
                 </div>
@@ -20,9 +23,10 @@ function ProfileCard(props)
                 <div className="title2">
                     <p>{props.userData.title2}</p>
                 </div>
+                </div>
             </div>
         </div>
-        </div>
+        
         </>
     );
 }
