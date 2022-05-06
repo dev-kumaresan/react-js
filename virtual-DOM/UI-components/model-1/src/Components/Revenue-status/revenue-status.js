@@ -12,8 +12,8 @@ function RevenueStatus(props)
                 <div className="revenue">{props.Revenue.revenue}</div>
             </div>
             <div className="progress-bar">
-            <div class="full">
-                <div class="percentage"></div>
+            <div className="full">
+                <div className="percentage"></div>
             </div>
            </div>
         </div>
