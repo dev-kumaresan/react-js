@@ -18,7 +18,7 @@ function App() {
   }
   return (
    <>
-   <div>
+   <div className="profile-card-holder">
     <ProfileCard userData={userData}/>
    </div>
    <div className="card-holder">
