@@ -10,6 +10,7 @@
     height : 22vh;
     width : 8.5vw;
     padding-top: 12px;
+    margin-top: 7px;
 }
 .travel-card .content-holder .travel-title{
     font-family: 'Poppins', sans-serif;
