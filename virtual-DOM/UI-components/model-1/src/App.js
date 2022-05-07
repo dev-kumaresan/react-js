@@ -3,6 +3,7 @@ import RevenueStatus from "./Components/Revenue-status/revenue-status";
 import GoProCard from "./Components/Go-pro/go-pro-card";
 import TravelCard from "./Components/Travel-card/travel-card";
 import HotelCard from "./Components/Hotel-Card/hotel-card";
+import DearClient from "./Components/Dear-client/dear-client";
 function App() {
   const userData = {
     name:"Laura cowe",
@@ -31,6 +32,9 @@ function App() {
    </div>
    <div className="Hotel-card-holder">
      <HotelCard />
+   </div>
+   <div className="Dear-card-holder">
+     <DearClient />
    </div>
    </>
   );
