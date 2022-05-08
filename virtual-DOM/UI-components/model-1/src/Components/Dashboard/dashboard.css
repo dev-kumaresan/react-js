@@ -76,7 +76,6 @@
     padding-left: 23.5%;
     margin-top : -13.5%;
 }
-
 @media only screen and (max-width : 768px){
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
 .Dashboard-card-holder{
@@ -155,5 +154,4 @@
     padding-left: 23.1%;
     margin-top : -13.5%;
 }
-
 }
