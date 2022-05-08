@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Dashboard-card-holder{
+    margin-top : 5%;
+    margin-left: 1%;
+}
+.dashboard {
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 35px;
+    height : 32vh;
+    width : 10.5vw;
+}
+@media only screen and (max-width : 768px){
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+.Dashboard-card-holder{
+    margin-top : 30%;
+    margin-left: 2%;
+}
+}

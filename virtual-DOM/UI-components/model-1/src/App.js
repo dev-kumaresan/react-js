@@ -4,6 +4,7 @@ import GoProCard from "./Components/Go-pro/go-pro-card";
 import TravelCard from "./Components/Travel-card/travel-card";
 import HotelCard from "./Components/Hotel-Card/hotel-card";
 import DearClient from "./Components/Dear-client/dear-client";
+import Dashboard from "./Components/Dashboard/dashboard";
 function App() {
   const userData = {
     name:"Laura cowe",
@@ -35,6 +36,9 @@ function App() {
    </div>
    <div className="Dear-card-holder">
      <DearClient />
+   </div>
+   <div className="Dashboard-card-holder">
+     <Dashboard />
    </div>
    </>
   );
