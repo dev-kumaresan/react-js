@@ -31,7 +31,7 @@
 }
 .go-pro .button-section{
     padding-left : 45%;
-    padding-top: 10%;
+    padding-top: 13%;
 }
 .go-pro .button-section .button{
     background-color: #fff;
@@ -53,8 +53,8 @@
     @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
 
 .go-pro-cardholder{
-    margin-top : 60%;
-    margin-left : 7%;
+    margin-top : 65%;
+    margin-left : 10%;
 }
 .go-pro{
     background-color: #534cbc;
@@ -84,7 +84,7 @@
 }
 .go-pro .button-section{
     padding-left : 45%;
-    padding-top: 10%;
+    padding-top: 15%;
 }
 .go-pro .button-section .button{
     background-color: #fff;

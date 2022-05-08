@@ -50,7 +50,7 @@
     border-radius: 50%;  
     margin-left: 80%;
     position: absolute;
-    top : 24.9%;
+    top : 27.9%;
     left : -31%;
 }
 .transaction-card .content .profile-details .pn{
@@ -83,7 +83,7 @@
     border-radius: 50%;  
     position : absolute;
     left : 37.5%;
-    top : 39.4%;
+    top : 41.3%;
 }
 .transaction-card .content .profile-images .image2 .img2{
     width : 35px;
@@ -91,7 +91,7 @@
     border-radius: 50%;  
     position : absolute;
     left : 40.1%;
-    top : 39.4%;
+    top : 41.3%;
 }
 .transaction-card .content .profile-images .image3 .img3{
     width : 35px;
@@ -99,7 +99,7 @@
     border-radius: 50%;  
     position : absolute;
     left : 42.7%;
-    top : 39.4%;
+    top : 41.3%;
 }
 .transaction-card .content .profile-images .image4 .img4{
     width : 35px;
@@ -107,10 +107,10 @@
     border-radius: 50%;  
     position : absolute;
     left : 45.3%;
-    top : 39.4%;
+    top : 41.3%;
 }
 .transaction-card .content .send-button{
-    margin-top : 8%;
+    margin-top : 13%;
     margin-left : 77%;
 }
 .transaction-card .content .send-button .send-btn{
@@ -215,7 +215,7 @@ margin-left : 20%;
     border-radius: 50%;  
     position : absolute;
     left : 13.5%;
-    top : 165.7%;
+    top : 164.4%;
 }
 .transaction-card .content .profile-images .image2 .img2{
     width : 35px;
@@ -223,7 +223,7 @@ margin-left : 20%;
     border-radius: 50%;  
     position : absolute;
     left : 20%;
-    top : 165.7%;
+    top : 164.4%;
 }
 .transaction-card .content .profile-images .image3 .img3{
     width : 35px;
@@ -231,7 +231,7 @@ margin-left : 20%;
     border-radius: 50%;  
     position : absolute;
     left : 26.5%;
-    top : 165.7%;
+    top : 164.4%;
 }
 .transaction-card .content .profile-images .image4 .img4{
     width : 35px;
@@ -239,10 +239,10 @@ margin-left : 20%;
     border-radius: 50%;  
     position : absolute;
     left : 33%;
-    top : 165.7%;
+    top : 164.4%;
 }
 .transaction-card .content .send-button{
-    margin-top : 11%;
+    margin-top : 16%;
     margin-left : 75%;
 }
 .transaction-card .content .send-button .send-btn{

@@ -22,6 +22,7 @@ function TransactionCard(props)
                 <div className="circle1"></div>
                 <div className="long-right-arrow"><span style={{color : "#fff"}}>&#10230;</span></div>
               </div>
+              <div className="images">
               <div className="image1">
               <img className="img1" src={process.env.PUBLIC_URL+"me.jpg"} height="19" width="19" />
               </div>
@@ -33,6 +34,7 @@ function TransactionCard(props)
               </div>
               <div className="image4">
               <img className="img4" src={process.env.PUBLIC_URL+"me.jpg"} height="19" width="19" />
+              </div>
               </div>
             </div>
             <div className="send-button">
