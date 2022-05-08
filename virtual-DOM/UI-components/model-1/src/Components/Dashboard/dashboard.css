@@ -63,7 +63,7 @@
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     padding-left: 23%;
-    margin-top : -13.5%;
+    margin-top : -13.8%;
 }
 .dashboard .content .dashboard-menus .forms-menu{
     margin-top : 17%;
@@ -81,6 +81,7 @@
 .Dashboard-card-holder{
     margin-top : 34%;
     margin-left: 8.5%;
+    
 }
 .dashboard {
     background-color: #fff;
@@ -144,10 +145,10 @@
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     padding-left: 23%;
-    margin-top : -13.5%;
+    margin-top : -12%;
 }
 .dashboard .content .dashboard-menus .forms-menu{
-    margin-top : 14%;
+    margin-top : 13%;
     margin-left : 24%;   
 }
 .dashboard .content .dashboard-menus .forms-menu .forms-text{
