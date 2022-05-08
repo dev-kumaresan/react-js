@@ -15,19 +15,19 @@ function Dashboard()
                  </div>
                  <div className="dashboard-menus">
                      <div className="email-menu">
-                         <div className="email-icon"><i class="fa fa-envelope" aria-hidden="true" style={{color : "#9a6bdc"}}></i></div>
+                         <div className="email-icon"><i class="fa fa-envelope" aria-hidden="true" style={{color : "#534cbc"}}></i></div>
                           <div className="email-text">Email</div>
                      </div>
                      <div className="calendar-menu">
-                         <div className="calendar-icon"><i class="fa fa-calendar" style={{color : "#9a6bdc"}}></i></div>
+                         <div className="calendar-icon"><i class="fa fa-calendar" style={{color : "#534cbc"}}></i></div>
                           <div className="calendar-text">Calender</div>
                      </div>
                      <div className="graph-menu">
-                         <div className="graph-icon"><i class="fa fa-bar-chart-o" style={{color : "#9a6bdc"}}></i></div>
+                         <div className="graph-icon"><i class="fa fa-bar-chart-o" style={{color : "#534cbc"}}></i></div>
                           <div className="graph-text">Graph</div>
                      </div>
                      <div className="forms-menu">
-                         <div className="forms-icon"><i class="fa fa-file-text-o" style={{color : "#9a6bdc"}}></i></div>
+                         <div className="forms-icon"><i class="fa fa-file-text-o" style={{color : "#534cbc"}}></i></div>
                           <div className="forms-text">Forms</div>
                      </div>
                  </div>

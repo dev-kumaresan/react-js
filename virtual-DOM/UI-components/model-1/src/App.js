@@ -5,6 +5,7 @@ import TravelCard from "./Components/Travel-card/travel-card";
 import HotelCard from "./Components/Hotel-Card/hotel-card";
 import DearClient from "./Components/Dear-client/dear-client";
 import Dashboard from "./Components/Dashboard/dashboard";
+import TransactionCard from "./Components/Transactions/transaction-card";
 function App() {
   const userData = {
     name:"Laura cowe",
@@ -16,6 +17,10 @@ function App() {
   }
   const Revenue = {
     revenue:"$92,983"
+  }
+  const Transaction = {
+    avl_balance : "$4,763.40",
+    credit_card : "**** 3863"
   }
   return (
    <>
@@ -39,6 +44,9 @@ function App() {
    </div>
    <div className="Dashboard-card-holder">
      <Dashboard />
+   </div>
+   <div className="Transaction-card-holder">
+     <TransactionCard Transaction={Transaction}/>
    </div>
    </>
   );
