@@ -6,6 +6,7 @@ import HotelCard from "./Components/Hotel-Card/hotel-card";
 import DearClient from "./Components/Dear-client/dear-client";
 import Dashboard from "./Components/Dashboard/dashboard";
 import TransactionCard from "./Components/Transactions/transaction-card";
+import ProjectDetails from "./Components/project-detail-card/project-detail";
 function App() {
   const userData = {
     name:"Laura cowe",
@@ -47,6 +48,9 @@ function App() {
    </div>
    <div className="Transaction-card-holder">
      <TransactionCard Transaction={Transaction}/>
+   </div>
+   <div className="ProjectDetails-card-holder">
+     <ProjectDetails />
    </div>
    </>
   );
