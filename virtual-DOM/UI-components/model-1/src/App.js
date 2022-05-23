@@ -7,6 +7,8 @@ import DearClient from "./Components/Dear-client/dear-client";
 import Dashboard from "./Components/Dashboard/dashboard";
 import TransactionCard from "./Components/Transactions/transaction-card";
 import ProjectDetails from "./Components/project-detail-card/project-detail";
+import ProjectProgress from "./Components/projects-progress/project-progress";
+import FreeSlots from "./Components/free-slots/free-slots";
 function App() {
   const userData = {
     name:"Laura cowe",
@@ -51,6 +53,12 @@ function App() {
    </div>
    <div className="ProjectDetails-card-holder">
      <ProjectDetails />
+   </div>
+   <div className="ProjectProgress-card-holder">
+     <ProjectProgress />
+   </div>
+   <div className="FreeSlots-card-holder">
+     <FreeSlots />
    </div>
    </>
   );
