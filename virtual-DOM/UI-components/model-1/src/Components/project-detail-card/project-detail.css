@@ -52,12 +52,12 @@
 }
 .project-details-card .content-holder .percentage-progress .progress-bar
 {
-    margin-left : 23%;
+    margin-left : 12%;
     margin-top : 2.5%;
 }
 .project-details-card .content-holder .percentage-progress .full
 {
-    width : 7vw;
+    width : 8vw;
     height : 0.9vh;
     border-radius : 50px;
     background-color: #eeeeee;

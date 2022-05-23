@@ -77,37 +77,37 @@
     font-size : 13px;
     font-weight: bold;
 }
-.transaction-card .content .profile-images .image1 .img1{
+.transaction-card .content .profile-images .images .image1 .img1{
     width : 35px;
     height : 35px;
     border-radius: 50%;  
     position : absolute;
     left : 37.5%;
-    top : 41.3%;
+    top : 42.9%;
 }
-.transaction-card .content .profile-images .image2 .img2{
+.transaction-card .content .profile-images .images .image2 .img2{
     width : 35px;
     height : 35px;
     border-radius: 50%;  
     position : absolute;
     left : 40.1%;
-    top : 41.3%;
+    top : 42.9%;
 }
-.transaction-card .content .profile-images .image3 .img3{
+.transaction-card .content .profile-images .images .image3 .img3{
     width : 35px;
     height : 35px;
     border-radius: 50%;  
     position : absolute;
     left : 42.7%;
-    top : 41.3%;
+    top : 42.9%;
 }
-.transaction-card .content .profile-images .image4 .img4{
+.transaction-card .content .profile-images .images .image4 .img4{
     width : 35px;
     height : 35px;
     border-radius: 50%;  
     position : absolute;
     left : 45.3%;
-    top : 41.3%;
+    top : 42.9%;
 }
 .transaction-card .content .send-button{
     margin-top : 13%;
@@ -128,7 +128,7 @@ margin-top : -25.5%;
 margin-left : 20%;
 }
 @media only screen and (max-width : 768px){
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
 
 .Transaction-card-holder{
     margin-left : 2%;
