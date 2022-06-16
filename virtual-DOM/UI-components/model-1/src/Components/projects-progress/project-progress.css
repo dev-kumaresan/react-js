@@ -71,8 +71,8 @@
   height: 60px;
   background: #fbead0;
   border-radius: 50%;
-  margin-left : 35%;
-  margin-top : -46%;
+  margin-left : 35.5%;
+  margin-top : -45.5%;
 }
 .circleProgressBar .percentageNumber{
     font-weight: bolder;
@@ -171,4 +171,12 @@
       margin-left : 45%;
       margin-top : -22%;
   }
+  .circleProgressBar .RP{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    margin-left : 13%;
+    font-weight: bolder;
+    margin-top : 32%;
+}
 }
