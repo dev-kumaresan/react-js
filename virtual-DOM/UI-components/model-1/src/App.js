@@ -25,6 +25,10 @@ function App() {
     avl_balance : "$4,763.40",
     credit_card : "**** 3863"
   }
+  const Progress = {
+    percentage : "75%",
+    rem_projects : "3 Remaining Projects"
+  }
   return (
    <>
    <div className="profile-card-holder">
@@ -55,7 +59,7 @@ function App() {
      <ProjectDetails />
    </div>
    <div className="ProjectProgress-card-holder">
-     <ProjectProgress />
+     <ProjectProgress Progress={Progress}/>
    </div>
    <div className="FreeSlots-card-holder">
      <FreeSlots />
