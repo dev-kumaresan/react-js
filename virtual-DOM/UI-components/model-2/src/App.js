@@ -1,10 +1,15 @@
-
-
+import Image from "./Components/Image/Image";
+import Name from "./Components/Name/Name";
 function App() {
-  return (
-<div>
-  
-</div>
+return (
+  <>
+  <div className="Image-Container">
+    <Image />
+  </div>
+  <div className="Name-Container">
+    <Name />
+  </div>
+  </>
   );
 }
 
