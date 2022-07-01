@@ -1,0 +1,9 @@
+.Signature-holder .Signature{
+    margin-left : 70%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+    opacity : 0.6;
+    font-weight: bold;
+    margin-top : -2%;
+}
