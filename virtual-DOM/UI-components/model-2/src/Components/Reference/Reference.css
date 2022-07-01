@@ -8,9 +8,14 @@
     text-decoration: underline;    
 }
 .Reference-holder .Reference-header a{
-    margin-left : 58.5%;
-    margin-top : -1.27%;
+    margin-left : 57.5%;
+    position : absolute;
+    bottom : 14.1%;
     font-size: 15px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    
+}
+a:hover{
+    color :  #966cdb;
 }

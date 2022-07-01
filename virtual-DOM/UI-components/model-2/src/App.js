@@ -6,6 +6,7 @@ import Technical from "./Components/Technical/Technical";
 import Practice from "./Components/Practice-works/Practice";
 import Hobbies from "./Components/Hobbies/Hobbies";
 import Reference from "./Components/Reference/Reference";
+import Declaration from "./Components/Declaration/Declaration";
 function App() {
 return (
   <>
@@ -32,6 +33,9 @@ return (
   </div>
   <div className="Reference-Container">
     <Reference />
+  </div>
+  <div className="Declaration-Container">
+    <Declaration />
   </div>
   </>
   );
