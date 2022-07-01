@@ -16,3 +16,6 @@
 .objective-holder .objective-header .objective p{
     width : 15%;
 }
+.objective-holder{
+    margin-left: -10%;
+}

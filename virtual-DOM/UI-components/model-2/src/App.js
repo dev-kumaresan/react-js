@@ -2,6 +2,10 @@ import Image from "./Components/Image/Image";
 import Name from "./Components/Name/Name";
 import Objective from "./Components/Objective/Objective";
 import Edu from "./Components/Edu-qualification/Edu";
+import Technical from "./Components/Technical/Technical";
+import Practice from "./Components/Practice-works/Practice";
+import Hobbies from "./Components/Hobbies/Hobbies";
+import Reference from "./Components/Reference/Reference";
 function App() {
 return (
   <>
@@ -16,6 +20,18 @@ return (
   </div>
   <div className="Edu-Container">
     <Edu />
+  </div>
+  <div className="Technical-Container">
+    <Technical />
+  </div>
+  <div className="Practice-Container">
+    <Practice />
+  </div>
+  <div className="Hobbies-Container">
+    <Hobbies />
+  </div>
+  <div className="Reference-Container">
+    <Reference />
   </div>
   </>
   );

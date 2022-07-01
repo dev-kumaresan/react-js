@@ -3,6 +3,9 @@
     padding-top : 1%;
     padding-left : 40%; 
 }
+.personal{
+    margin-left: -10%;
+}
 .Name .username{
     color : #0f73c5;
     font-size: 30px;
